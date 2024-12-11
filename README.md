@@ -42,7 +42,7 @@ We love collaborating with fellow developers! If you'd like to contribute:
 ## 🌐 Connect With Us
 
 - 🌟 YouTube: [Lines Genius](https://www.youtube.com/@linesgenius)
-- 🌍 Website: [Lines Genius Official](https://www.linesgenius.atwebpages.com)
+- 🌍 Website: [Lines Genius Official](http://linesgenius.atwebpages.com/)
 - 📧 Email: linesofgenius@gmail.com
 
 ---
